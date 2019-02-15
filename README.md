@@ -1,2 +1,0 @@
-# typescript-cookbook
-Typescript Cookbook
